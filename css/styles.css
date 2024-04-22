@@ -1,0 +1,68 @@
+h1  {
+  font-family: "Jersey 10 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* styles.css */
+
+/* Styling the logo image */
+.logo {
+    display: inline-block;
+    vertical-align: middle; /* Aligns the image vertically with the text */
+    margin-right: 10px; /* Adjust this value as needed to create space between the image and text */
+    font-family: 'Firago', sans-serif; /* Applying the Firago font */
+}
+
+/* Styling the navigation */
+nav {
+    display: inline-block;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px; /* Adjust this value as needed for spacing between items */
+}
+h1,h2
+}
+h1{width:350px;
+   height: 100px;
+   background-color: blue;
+   border-width: 100px;
+   border-style:solid ;
+   border-color: blue;
+   margin: 120px;
+}
+
+.other li{
+    margin-left: 700px;
+}
+.container {
+    Width: 500px;
+    height: 200px;
+    background-color: #E7E7E7;
+    margin: 0px 0px 0px -100px;
+    
+}
+
+.container h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #3F4145;
+
+}
+.logo {
+    display: inline-block;
+    width: 200px;
+    margin: 60px 10px 60px 80px;
+}
